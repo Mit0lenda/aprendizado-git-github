@@ -1,0 +1,19 @@
+Comandos:
+git init:ativa git no repositorio
+code . :abre o vs code com o arquivo
+git status:ver o que tem que comitar
+git add testing :adiciona para commitar
+git commit -m 'comentario':Commita e coloca um comentario
+git log:ve as modificações 
+git log --pretty=oneline:mostra cada commit em uma linha e se colocar --state vê qual linha mudou
+git diff:mostra o que mudou
+git add:inclui todos os arquivos não monitorados
+git commit--amends:pode mudar a mensagem
+git reset head:tira o ultimo commit pode ser usado após o add o arquivo continua lá mas não fina no stage
+git checkout - testing:ele retorna antes de modificar no vs
+fork:copia o repositorio
+pull request:pedir para colocar no repositorio oficial
+git clone url:clona o repositorio do github pegar codigo https
+git remote add origin https:linka projeto com o pc e cria o README.md no vs
+git push origin master:se eu fizer um commit no site direto tenho que usar esse codigo para ter no vs pega da branch master 
+touch .gitignore:cria um arquivo que ignora o commit o que tiver dentro dele não ira aparecer as informações ele sobe para o github mas a basta dentro dele ira subir mas não as informações que tem dentro dela como uma senha por exemplo
