@@ -1,0 +1,9 @@
+Branchs o que são:São ramos existe em todos os projetos pois é o melhor jeito de todos trabalharem no mesmo projeto cada um fazendo uma coisa sem atrapalhar o outro 
+e apos terminarem o projeto é só juntar as Branchs
+Comandos:
+git branch testing:Criando uma branch
+git checkout testing:Mudar de branch
+git branch -d testing:deletar uma branch
+git checkout -b testing:criar e trocar de branch em um único comando
+git branch:mostra quais branchs existem
+git merge testing:Envia todas as mudanças de uma branch para outra,deve se utilizar na branch main
