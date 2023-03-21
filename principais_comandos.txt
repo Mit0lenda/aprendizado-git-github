@@ -1,0 +1,14 @@
+Principais codigos:
+echo:Coloca  mensagem na tela 
+pwd:mostra em qual pasta estou no console
+ls:lista o que está no diretorio
+mkdir:cria uma pasta no diretorio
+cd:entra e sai de pastar para entrar é só cd e para sair cd ..
+touch:cria um arquivo novo ex:file.txt 
+cat:comando que pega o conteudo dentro do arquivo
+less:exibe o conteudo do arquivo para sair apertar q 
+cp:Comando de copia 
+mr:move o arquivo 
+rm:remover o arquivo e diretorio(pasta) é rm-rf
+clear:limpa a tela
+history:historico de comandos utilizados
